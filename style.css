@@ -60,7 +60,7 @@ nav{
 }
 #accueil{
     padding-top: 90px ;
-    background: url(cab2.jpg) no-repeat fixed 50% 50% ;
+    background: url(cab2.JPG) no-repeat fixed 50% 50% ;
 
     background-size: cover;
     height: 799px;
@@ -233,4 +233,5 @@ transition: 0.1s;
     margin: 30px auto;
     background-color:white ;
     box-shadow: 1px 3px 2px black; 
+
 }
